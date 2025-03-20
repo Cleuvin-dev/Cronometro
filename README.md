@@ -1,5 +1,6 @@
 <h1>Cronometro - C#</h1>
-<p>Projeto criado através de um treinamento sobre os Fundamentos do C#, ministrado pelo André Baltieri da plataforma balta.io -> https://balta.io/</p>
+<p>Projeto criado através de um treinamento sobre os Fundamentos do C#, ministrado pelo André Baltieri da plataforma balta.io.<br>
+<a href="https://balta.io/cursos/fundamentos-csharp">Fundamentos do C#</a>
 <hr>
 <h3>Tópicos aprendidos e reforçados durante o desenvolvimento deste projeto.</h3>
 <ol>
