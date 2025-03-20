@@ -1,0 +1,14 @@
+C:\Desenv\Balta\Fundamentos de C#\StopWatch\bin\Debug\net9.0\StopWatch.exe
+C:\Desenv\Balta\Fundamentos de C#\StopWatch\bin\Debug\net9.0\StopWatch.deps.json
+C:\Desenv\Balta\Fundamentos de C#\StopWatch\bin\Debug\net9.0\StopWatch.runtimeconfig.json
+C:\Desenv\Balta\Fundamentos de C#\StopWatch\bin\Debug\net9.0\StopWatch.dll
+C:\Desenv\Balta\Fundamentos de C#\StopWatch\bin\Debug\net9.0\StopWatch.pdb
+C:\Desenv\Balta\Fundamentos de C#\StopWatch\obj\Debug\net9.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenv\Balta\Fundamentos de C#\StopWatch\obj\Debug\net9.0\StopWatch.AssemblyInfoInputs.cache
+C:\Desenv\Balta\Fundamentos de C#\StopWatch\obj\Debug\net9.0\StopWatch.AssemblyInfo.cs
+C:\Desenv\Balta\Fundamentos de C#\StopWatch\obj\Debug\net9.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Desenv\Balta\Fundamentos de C#\StopWatch\obj\Debug\net9.0\StopWatch.dll
+C:\Desenv\Balta\Fundamentos de C#\StopWatch\obj\Debug\net9.0\refint\StopWatch.dll
+C:\Desenv\Balta\Fundamentos de C#\StopWatch\obj\Debug\net9.0\StopWatch.pdb
+C:\Desenv\Balta\Fundamentos de C#\StopWatch\obj\Debug\net9.0\StopWatch.genruntimeconfig.cache
+C:\Desenv\Balta\Fundamentos de C#\StopWatch\obj\Debug\net9.0\ref\StopWatch.dll
