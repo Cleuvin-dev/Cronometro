@@ -6,7 +6,7 @@
 <ol>
   <li>Reforço do uso de Loops - Neste projeto foi revisado e utilizado o while</li>
   <li>Uso de temporizadores fazendo com que a tela fique congelada por um tempo determinado</li>
-  <li>Aprendido o uso da função Threads, utilizando Thread.Sleep(1000), como no exemplo, foi determinado um tempo de 1000 milesegundos.</li>
+  <li>Uso da função Threads, utilizando Thread.Sleep(1000), como no exemplo, foi determinado um tempo de 1000 milesegundos.</li>
   <li>Reforço da função ToLower</li>
-  <li>Passado o uso da função de Substring();</li>
+  <li>Uso da função de Substring();</li>
 </ol>
